@@ -1,4 +1,4 @@
-package by.peshkur.allure.config;
+package allur.config;
 
 public class UserConfig {
     public static final String USER_LOGIN = "test@test.com";

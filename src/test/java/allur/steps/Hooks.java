@@ -1,4 +1,4 @@
-package by.peshkur.allure.steps;
+package allur.steps;
 
 import io.cucumber.java.Before;
 
